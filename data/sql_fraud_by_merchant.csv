@@ -1,0 +1,10 @@
+merchant_category,total_txns,fraud_count,fraud_rate_pct
+Gambling,1141,505,44.26
+Jewelry,1113,313,28.12
+Education,1149,218,18.97
+Groceries,1072,203,18.94
+Travel,1127,208,18.46
+Clothing,1116,205,18.37
+Electronics,1069,190,17.77
+Restaurants,1086,191,17.59
+Healthcare,1127,197,17.48
